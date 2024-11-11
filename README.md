@@ -1,4 +1,5 @@
-# 3b.CREATION FOR CHAT USING TCP SOCKETS
+# EX : 3b
+# CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
